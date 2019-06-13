@@ -2,7 +2,7 @@
 A PC98 style layout for Twine, based heavily on Dead of the Brain
 Hello everyone.
 
-I was messing around with a layout and I thought I'd share it with everyone. I don't really have a plan in mind for it. This layout is a PC98 style layout, based heavily on Dead of the Brain, to use in Twine. The idea was to create something that would make it easy to start plopping in content for a VN in this style.
+I was messing around with a layout and I thought I'd share it with everyone. I don't really have a plan in mind for it. The idea was to create something that would make it easy to start plopping in content for a VN in this style.
 
 FEATURES:
 
